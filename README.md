@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   <li><a href="https://github.com/yousifalasfar/Launch-Academy-personal-project">Launch-Academy-personal-project</a></li>
   <li><a href="https://github.com/ikrisa10/group-project-pitch-spork">Pitch Spork Music Review Full Stack, Spring,SQL, React</a></li>
   <li><a href="https://github.com/paulritzman/Endangered-Animal-Adoption">
-Endangered-Animal-Adoption Website Full Stack,SQL, Express</a></li>
+Endangered-Animal-Adoption Website Full Stack, React,SQL, Express</a></li>
 </ol>
 
 <!-- languages/tools I use images in a row-->
