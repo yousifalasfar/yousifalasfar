@@ -1,4 +1,4 @@
-### Hi there 👋 
+### Hi I'm Yousif! 👋 
 
 <!--
 **yousifalasfar/yousifalasfar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi, I'm Yousif!
+
 <!-- links to pages -->
 <span>
 <a href="https://www.linkedin.com/in/yousifalasfar/">
@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### Repo Highlight Reel 
 <ol>
   <li><a href="https://github.com/yousifalasfar/Launch-Academy-personal-project">Launch-Academy-personal-project</a></li>
-  <li><a href="https://github.com/ikrisa10/group-project-pitch-spork">Pitch Spork Music Review Full Stack, Spring, React</a></li>
+  <li><a href="https://github.com/ikrisa10/group-project-pitch-spork">Pitch Spork Music Review Full Stack, Spring,SQL, React</a></li>
   <li><a href="https://github.com/paulritzman/Endangered-Animal-Adoption">
-Endangered-Animal-Adoption Website Full Stack, Express</a></li>
+Endangered-Animal-Adoption Website Full Stack,SQL, Express</a></li>
 </ol>
 
 <!-- languages/tools I use images in a row-->
