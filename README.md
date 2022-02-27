@@ -47,5 +47,5 @@ Endangered-Animal-Adoption Website Full Stack, React,SQL, Express</a></li>
   <!-- css -->
   <img src="https://image.flaticon.com/icons/png/512/732/732190.png" alt="css" width="50px" />
   <!-- html -->
-  <img src="https://image.flaticon.com/icons/png/512/1051/1051277.png" alt="html" width="50px" />  
+  <img src="https://icons.iconarchive.com/icons/graphics-vibe/developer/256/html-icon.png" alt="html" width="50px" />  
 </span>
