@@ -37,7 +37,7 @@ Endangered-Animal-Adoption Website Full Stack, React,SQL, Express</a></li>
 ### Languages and Tools
 <span>
   <!-- Javascript -->
-  <img src="https://image.flaticon.com/icons/png/512/919/919828.png" alt="javascript" width="50px" />
+  <img src="https://icon-library.com/images/javascript-icon-png/javascript-icon-png-24.jpg" alt="javascript" width="50px" />
   <!-- Java -->
   <img src="https://image.flaticon.com/icons/png/512/226/226777.png" alt="java" width="50px" />
   <!-- React -->
