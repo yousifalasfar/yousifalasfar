@@ -39,7 +39,7 @@ Endangered-Animal-Adoption Website Full Stack, React,SQL, Express</a></li>
   <!-- Javascript -->
   <img src="https://icon-library.com/images/javascript-icon-png/javascript-icon-png-24.jpg" alt="javascript" width="50px" />
   <!-- Java -->
-  <img src="https://cdn.iconscout.com/icon/free/png-64/java-58-1174951.png" />
+  <img src="https://cdn.iconscout.com/icon/free/png-64/java-59-1174952.png" />
   <!-- React -->
   <img src="https://mpng.subpng.com/20191103/yzr/transparent-js-icon-logo-icon-react-icon-5dbe78e2baef34.7249912515727638747657.jpg" alt="react" width="50px" />
   <!-- PostgreSQL -->
