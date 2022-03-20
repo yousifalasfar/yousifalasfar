@@ -17,10 +17,11 @@ Here are some ideas to get you started:
 
 <!-- links to pages -->
 <span>
+  Let's connect!
 <a href="https://www.linkedin.com/in/yousifalasfar/">
   <img src="https://cdn.iconscout.com/icon/premium/png-64-thumb/linkedin-3506278-2932736.png" alt="icon of linkedIn" width="20px" />
 </a>
- Let's connect!
+ 
 </span>
 
 
