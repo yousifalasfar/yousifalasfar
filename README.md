@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!-- links to pages -->
 <span>
 <a href="https://www.linkedin.com/in/yousifalasfar/">
-  <img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="icon of linkedIn" width="20px" />
+  <img src="https://cdn.iconscout.com/icon/premium/png-64-thumb/linkedin-3506278-2932736.png" alt="icon of linkedIn" width="20px" />
 </a>
  Let's connect!
 </span>
