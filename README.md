@@ -28,7 +28,8 @@ Here are some ideas to get you started:
 <!-- repo highlights bullet points -->
 ### Repo Highlight Reel 
 <ol>
-<!--   <li><a href="https://github.com/yousifalasfar/Launch-Academy-personal-project">Launch-Academy-personal-project</a></li> -->
+  <li><a href="https://github.com/yousifalasfar/Launch-Academy-personal-project">Launch-Academy-personal-project</a></li>
+  <li><a href="https://github.com/ikrisa10/group-project-pitch-spork">Launch-Academy-personal-project</a></li>
 </ol>
 
 <!-- languages/tools I use images in a row-->
