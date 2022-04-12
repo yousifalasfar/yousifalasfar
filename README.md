@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ### Repo Highlight Reel 
 <ol>
   <li><a href="https://github.com/yousifalasfar/Launch-Academy-personal-project">Launch-Academy-personal-project</a></li>
-  <li><a href="https://github.com/ikrisa10/group-project-pitch-spork">pitch-spork-group-project</a></li>
+  <li><a href="https://github.com/yousifalasfar/-group-project-pitch-spork">pitch-spork-group-project</a></li>
   <li><a href="https://github.com/paulritzman/Endangered-Animal-Adoption">Endangered-Animal-Adoption-group-project</a></li>
 </ol>
 
